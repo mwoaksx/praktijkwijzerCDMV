@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(248, 225, 225);
+}
+
+nav {
+    background-color: #f0f5f5 !important;
+    box-shadow: 2px 1px #e0e0ee;
+    font-size: 20px;
+}
+
+nav .navbar-nav a {
+    color: #1a1a1a !important;
+}
+
+#main {
+    width: 100%;
+    height: 100% - 50px;
+}
+
+#main .maintext {
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.klachtL {
+    float: left;
+    width: 45%;
+    padding: 1%;
+}
+
+.klachtR {
+    float: right;
+    width: 45%;
+    padding: 1%;
+  
+}
+
+footer {
+    background: #f0f5f5 !important; 
+    position: fixed; 
+    left: 0; 
+    right: 0; 
+    bottom: 0; 
+    height: 50px;
+}

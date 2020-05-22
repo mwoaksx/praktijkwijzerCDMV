@@ -1,0 +1,26 @@
+/* 404 */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#str {
+   width: 75%;
+   height: auto;
+   font-size: 40px;
+   margin: 20px auto;
+   color: black;
+   font-weight: bold;
+   background-color: white;
+   text-align: center;
+}
+
+#page404 h1{
+    color: black;
+    width: 40%;
+    margin: 20px 0% 20px 30%;
+    text-align: center;
+}
+/* /404 */
